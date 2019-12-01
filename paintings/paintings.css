@@ -1,0 +1,15 @@
+.album{
+  margin-left: 1rem;
+  margin-right: 1rem;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  background-color:#80745a;
+}
+body{
+  background-color: #80745a;
+  margin: 0;
+}
+img {
+  margin: 1rem;
+  border-radius: 8px;
+}
